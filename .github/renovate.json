@@ -15,5 +15,8 @@
   },
   "helmv3": {
     "enabled": false
+  },
+  "helmv4":{
+    "enabled": true
   }
 }
